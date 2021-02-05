@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63814607505",
+    "project_id": "event-entry-60b17",
+    "storage_bucket": "event-entry-60b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63814607505:android:523d1ceba1cb21f6c41530",
+        "android_client_info": {
+          "package_name": "com.thecelltech.event_entry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63814607505-vo4r574m2r86sq8mm9bjghtgbuojla8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJn4-0m0ROeq-Ip2MkP_AYg7pzsXOgCMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63814607505-vo4r574m2r86sq8mm9bjghtgbuojla8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
