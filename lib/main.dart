@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 
 import 'package:event_entry/screens/home_page.dart';
+import 'package:event_entry/screens/bus_ticket.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -29,6 +30,7 @@ class App extends StatelessWidget {
           return MaterialApp(
             debugShowCheckedModeBanner: false,
             home: SafeArea(
+              //child: BusTicket(),
               child: HomePage(),
             ),
           );

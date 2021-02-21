@@ -29,6 +29,7 @@ dependencies:
   cloud_firestore:
   flutter_spinkit:
   qrscan:
+  firebase_database:
 
 
 dev_dependencies:
@@ -52,6 +53,10 @@ flutter:
     - images/generate_qrcode.png
     - images/scanner.png
     - images/albums.png
+    - images/bus.png
+    - images/bus_return.png
+    - images/food.png
+    - images/ticket.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
